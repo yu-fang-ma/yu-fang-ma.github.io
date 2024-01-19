@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/math.png
+image: img/math.jpg
 title: "Math Club"
 date: 2024-01-18
 published: true
