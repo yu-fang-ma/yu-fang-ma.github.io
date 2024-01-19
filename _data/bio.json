@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://github.com/yu-fang-ma.png",
     "email": "yfm@hawaii.edu",
-    "phone": "808-807-3138",
+    "phone": "",
     "website": "https://yu-fang-ma.github.io",
     "summary": "I am studying for a B.S. in Computer Science - Data Science track in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
