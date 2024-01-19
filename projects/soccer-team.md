@@ -17,4 +17,4 @@ Before the competition started, my classmates and I practiced playing soccer eve
 
 Because of the practice, I got to understand my classmates better. I’m able to know which classmates play better and which ones do not, I got to know where to stand to help my classmates and will pass the ball when needed. To me, this is a valuable memory because this is the first time that I truly understand the importance of teamwork and communication, those skills are not only applied in athletics but also to the future of life.
 
-<img class="img-fluid" src="../img/team-communication.png">
+<img class="img-fluid" src="../img/team-communication.jpg">
