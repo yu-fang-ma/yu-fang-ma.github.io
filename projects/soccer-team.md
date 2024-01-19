@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/soccer.jpg
 title: "Soccer Team"
 date: 2014-01-18
 published: true
