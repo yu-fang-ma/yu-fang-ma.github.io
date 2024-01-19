@@ -6,15 +6,18 @@
     "email": "yfm@hawaii.edu",
     "phone": "808-807-3138",
     "website": "https://yu-fang-ma.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "summary": "I am studying for a B.S. in Computer Science - Data Science track in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "yu-fang-ma", "url": "http://github.com/yu-fang-ma" },
-      { "network": "linkedin", "username": "yu-fang-ma", "url": "http://linkedin.com/in/yu-fang-ma-5a29152a9" }
+      { "network": "linkedin", "username": "yu-fang-ma", "url": "http://linkedin.com/in/yu-fang-ma-5a29152a9" },
+      { "network": "email", "username": "yfm", "url": "yfm@hawaii.edu" }
     ]
   },
   "interests": [
-    { "name": "Data Science" }
+    { "name": "Data Science" },
+    { "name": "Statistics" },
+    { "name": "machine learning" }
   ],
   "skills": [
     {
