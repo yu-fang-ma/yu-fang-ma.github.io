@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/math.png
 title: "Math Club"
 date: 2024-01-18
 published: true
