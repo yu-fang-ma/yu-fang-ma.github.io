@@ -10,6 +10,8 @@ labels:
   - Javascript
 ---
 
+<img width="200px" class="rounded float-start pe-4" src="../img/tp.png">
+
 Athletic software engineering is a pedagogy that helps students improve their coding skills, and doing WOD is one of the activities that force students to solve coding problems in a limited time. I’m a student who has experience participating in the activity, and I think it is useful to help students find out their coding ability, and be able to make improvements.
 
 From my perspective and experience, since WOD has a time limit, students will be trained to think in a very fast way. Students need to understand the problem and come up with a possible solving method in a very short time. After that, students need to finish writing the code and test it to figure out whether the method they come up with can solve the problem. To finish writing the code in a very short time, students also need to be very familiar with the programming language they are using. This process helps students figure out whether they are familiar with the programming language they’re using, and also able to know which part of the programming language they are unfamiliar with.
