@@ -10,8 +10,8 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "yu-fang-ma", "url": "http://github.com/yu-fang-ma" },
-      { "network": "linkedin", "username": "yu-fang-ma", "url": "http://linkedin.com/in/yu-fang-ma-5a29152a9" },
-      { "network": "email", "username": "yfm", "url": "yfm@hawaii.edu" }
+      { "network": "linkedin", "username": "yu-fang-ma", "url": "http://linkedin.com/in/yu-fang-ma-5a29152a9" }
+      
     ]
   },
   "interests": [
