@@ -19,3 +19,5 @@ From the paragraph above, we know that asking questions isn’t a bad thing, how
 
 ## What is a smart question? How to ask a smart question?
 What type of question can be counted as a smart question? A question that can be counted as a smart question is a question that gives a clear and detailed explanation of what kinds of problems you are facing in what kind of situation. Also, a smart question should show that a person has put some effort into figuring out the answer before asking the question. Therefore, for you to ask a smart question, you should do some preparation before it, making sure that the question you are facing is something that you are pretty sure you cannot find the solution by yourself, and can explain in detail to help others understand.
+
+## Example of a smart question and a not smart question
