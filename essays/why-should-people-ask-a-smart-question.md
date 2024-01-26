@@ -9,7 +9,7 @@ labels:
   - Smart questions
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/tp.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/pic1.jpeg">
 
 ## Ask for help when needed
 When people are learning new things or ideas, they commonly come up with many questions or problems. To fully understand the concepts and be a master in that area, people should not be afraid to ask questions. Asking questions isn’t a bad thing, asking for help can both help you and others understand better the topic and contents you struggle with, and be able to benefit more and more people.
