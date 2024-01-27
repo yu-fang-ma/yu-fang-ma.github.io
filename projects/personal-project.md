@@ -16,9 +16,9 @@ The topic of my project was online shopping vs in-store shopping. I did some res
 
 This is the first big project I have done in my life, and because of this experience, I got to learn how to manage my time wisely, design questionnaires to ask people questions and write an essay based on my research and analysis.
 
-<img class="img-fluid" src="../img/time-management.jpg">
 
 Part of the results I got from the questionnaires:
+
 <img class="img-fluid" src="../img/pp1.png">
 <img class="img-fluid" src="../img/pp2.png">
 <img class="img-fluid" src="../img/pp3.png">
