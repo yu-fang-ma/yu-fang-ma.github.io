@@ -16,7 +16,7 @@
   "interests": [
     { "name": "Data Science" },
     { "name": "Statistics" },
-    { "name": "machine learning" }
+    { "name": "Machine Learning" }
   ],
   "skills": [
     {
@@ -38,12 +38,6 @@
       "courses": [
       ]
     }
-  ],
-  "work": [
-  ],
-  "volunteer": [
-  ],
-  "awards": [
   ],
   "references": [
     {
