@@ -3,11 +3,11 @@ layout: project
 type: project
 image: img/pp.png
 title: "Personal Project"
-date: 2024-01-18
+date: 2019
 published: true
 labels:
   - Personal Project
-summary: "The experience of writing my first personal project."
+summary: "My experience of writing my first personal project in high school."
 ---
 
 When I was living in Taiwan, my school required students to do a project called personal projects. This personal project is only for 10th-grade students, and at the beginning of the semester, the teachers introduced all the rules for the projects and gave students a year to finish the project.
