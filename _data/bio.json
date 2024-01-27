@@ -39,6 +39,21 @@
       ]
     }
   ],
+  "volunteer": [
+    {
+      "organization": "Math club",
+      "position": "Member",
+      "startDate": "2016",
+      "endDate": "2017",
+      "summary": "Learning Math in a fun way!"
+    },
+        {
+      "organization": "Soccer team",
+      "position": "Player",
+      "startDate": "2014",
+      "endDate": "2015",
+      "summary": "Represent the school in competition."
+    }
   "references": [
     {
       "name": "Available upon request"
