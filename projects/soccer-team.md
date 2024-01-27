@@ -3,12 +3,12 @@ layout: project
 type: project
 image: img/soccer.jpg
 title: "Soccer Team"
-date: 2024-01-18
+date: 2015
 published: true
 labels:
   - Athletic
   - Soccer
-summary: "The experience of joining the school soccer team in Taiwan."
+summary: "My experience of joining the school soccer team in elementary school in Taiwan."
 ---
 
 When I was living in Taiwan, my classmates and I represented our school to played the city soccer competition. We won the second place, and I have scored a goal.
