@@ -3,15 +3,15 @@ layout: project
 type: project
 image: img/math.jpg
 title: "Math Club"
-date: 2024-01-18
+date: 2017
 published: true
 labels:
   - Math
   - Club
-summary: "The experience of joining a math club in Taiwan."
+summary: "My experience of joining a math club in middle school in Taiwan."
 ---
 
-While living in Taiwan, I participated in my school’s math club. The math club met every week, and each time a teacher led us to learn math in a fun and interesting way.
+While living in Taiwan, I participated in my school’s math club for a year. The math club met every week, and each time a teacher led us to learn math in a fun and interesting way.
 
 Each time we met, all the people were separated into groups of three people. There is no group leader, all the people are members. The teacher will introduce the topic first, then give us material to do the activities. All the members will participate in the group discussion, and try to finish the task.
 
