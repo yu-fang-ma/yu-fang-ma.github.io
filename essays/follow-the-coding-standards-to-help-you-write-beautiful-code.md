@@ -10,7 +10,7 @@ labels:
   - ESLint
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/green-checkmark.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/why.png">
 
 
 ## What is “Coding Standards” and why it is important?
@@ -25,7 +25,7 @@ In my opinion, I don’t think following the Coding Standards is a difficult thi
 
 Recently, I started using ESLint for IntelliJ. At first, because I was not familiar with ESLint, I had a lot of warming for my code that needed to be solved. However, after understanding what kind of style ESLint wants me to put my code in, the number of warmings I got decreased a lot. It is easier for me to get a green checkmark, and every time I get a green checkmark, I feel joyful. I think it is a happy thing to see that your code does not include any red marks and has a green checkmark!
 
-<img width="200px" class="rounded float-start pe-4" src="../img/green-checkmark.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/eslint.png">
 
 
 
