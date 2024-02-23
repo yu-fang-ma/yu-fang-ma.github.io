@@ -10,7 +10,7 @@ labels:
   - Bootstrap 5
 ---
 
-<img width="200px" class="rounded float-start pe-4" src=url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.drupal.org%2Fproject%2Fbootstrap5&psig=AOvVaw3dhbg0KyJtxTOE8mqhbDCC&ust=1708765359692000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKiI-b2NwYQDFQAAAAAdAAAAABAE")>
+<img width="200px" class="rounded float-start pe-4" src="../img/b5-new-logo.png">
 
 ## What are UI Frameworks?
 
