@@ -30,4 +30,4 @@ I think it is worth a lot to use Bootstrap 5 to build the website. It makes thin
 
 Overall, learning and using the UI Frameworks is important in creating and building the website. If people can pass through the difficult time of learning and getting familiar with the UI frameworks, the return they get is worth a lot.
 
-<a href="(https://www.sencha.com/blog/what-is-ui-frameworks-and-reason-to-use-ui-frameworks/)https://www.sencha.com/blog/what-is-ui-frameworks-and-reason-to-use-ui-frameworks/">Reference</a>
+<a href="https://www.sencha.com/blog/what-is-ui-frameworks-and-reason-to-use-ui-frameworks/">Reference</a>
