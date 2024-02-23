@@ -10,13 +10,14 @@ labels:
   - Bootstrap 5
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/b5-new-logo.png">
 
 ## What are UI Frameworks?
 
 UI Frameworks stands for User Interfaces Frameworks. According to “What is UI Frameworks and Reason to Use UI Frameworks,” UI Framework is the collection of libraries, pre-built components, and design elements that can be reused in the process of creating the user interface.
 
 ## What is Bootstrap 5 and why it is beneficial to use it?
+
+<img width="200px" class="rounded float-start pe-4" src="../img/b5-new-logo.png">
 
 People can still use raw HTML and CSS to build the website if they want. But the reason why people choose to use the framework is because it has a lot of benefits.
 
