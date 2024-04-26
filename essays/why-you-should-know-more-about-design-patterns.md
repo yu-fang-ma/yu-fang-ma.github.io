@@ -20,3 +20,6 @@ Although I have mentioned above that people should understand the problem first 
 ## Conclusion
 
 There are still a lot of patterns that aren’t mentioned in this article for readers to discover. When people get deep into those design patterns, they can find out that those patterns are very interesting, and can benefit people a lot.
+
+[Resource 1](https://www.freecodecamp.org/news/the-basic-design-patterns-all-developers-need-to-know/)
+[Resource 2](https://newsletter.techworld-with-milan.com/p/how-to-select-a-design-pattern)
