@@ -11,7 +11,7 @@ labels:
 
 ## The basic thing you should know about design patterns
 
-<img width="450px" class="rounded float-start pe-4" src="../img/Design_Patterns.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/Design_Patterns.png">
 
 According to Rahman (2019), Design patterns are design-level solutions for recurring problems. It is not code, rather it is a description of how to solve the issues or problems and design solutions under different kinds of situations. Design patterns can be separated into three types with a total of 23 classic patterns. Those three types of design patterns are creational patterns, structural patterns, and behavioral patterns. Creational patterns are patterns that are related to the class instantiation, structural patterns are patterns that are related to the class’s structure and composition, and then behavioral patterns are patterns that are related to how a class communicates with others (Rahman, 2019). To choose the right pattern to use, we need to understand both the problem and the patterns we have. Understanding what the problem is about, and what kind of pattern can help solve the problem efficiently is the key point to help people succeed.
 
