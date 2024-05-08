@@ -11,7 +11,7 @@ labels:
 
 ### I. Introduction
 
-<img width="200px" class="rounded float-start pe-4" src="../img/what-is-artificial-intelligence-infographic.width-880.webp">
+<img width="200px" class="rounded float-start pe-4" src="../img/AI.webp">
 
 AI (artificial intelligence) has come out and become popular in recent years. AI is not only being used in the technology field but is also applied in many different areas. One of the areas in which AI is being used is education. Many people will use AI to help them teach more efficiently. AI can help educators plan teaching plans, have a better connection with students, and also benefit students by tutoring them and using data analysis to find out what kinds of problems most students may have a difficult time with.
 
@@ -82,5 +82,3 @@ As the technology keeps developing, the ability of AI will grow also. I think th
 ### VIII. Conclusion:
 
 Overall, AI is a good tool that can be applied to different areas and aspects. AI can become a good friend to humans when people know how to use AI wisely. The attitude people have when using AI and the way they use AI are important key points that help connect the good relationship between humans and AI.
-
-<img width="200px" class="rounded float-start pe-4" src="../img/AI.webp">
