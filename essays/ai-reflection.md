@@ -11,7 +11,7 @@ labels:
 
 ### I. Introduction
 
-<img width="350px" class="rounded float-start pe-4 py-5" src="../img/AI.webp">
+<img width="350px" class="rounded float-start pe-4 py-4" src="../img/AI.webp">
 
 AI (artificial intelligence) has come out and become popular in recent years. AI is not only being used in the technology field but is also applied in many different areas. One of the areas in which AI is being used is education. Many people will use AI to help them teach more efficiently. AI can help educators plan teaching plans, have a better connection with students, and also benefit students by tutoring them and using data analysis to find out what kinds of problems most students may have a difficult time with.
 
