@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "AI Reflection"
+title: "Can AI be your good friend?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-07
 published: true
