@@ -11,6 +11,8 @@ labels:
 
 ### I. Introduction
 
+<img width="200px" class="rounded float-start pe-4" src="../img/what-is-artificial-intelligence-infographic.width-880.webp">
+
 AI (artificial intelligence) has come out and become popular in recent years. AI is not only being used in the technology field but is also applied in many different areas. One of the areas in which AI is being used is education. Many people will use AI to help them teach more efficiently. AI can help educators plan teaching plans, have a better connection with students, and also benefit students by tutoring them and using data analysis to find out what kinds of problems most students may have a difficult time with.
 
 Using AI in Software Engineering has also happened in recent years. The advantages of AI like high efficiency and innovative solutions have made software engineers keep using it to help them finish the work and achieve the goal.
@@ -61,7 +63,6 @@ For the rest of the items related to coding, I also didn’t use AI because of t
 
 The reason why many teachers do not want students to use AI to help finish their homework is because of the idea of learning and understanding. AI can help student finish their work, but if a student only uses AI to help them finish their work and does not truly understand the knowledge, this will cause a big problem. On the other hand, if people use AI wisely, it will benefit them a lot since AI has good problem-solving, skill development, and comprehension abilities. AI technologies can enhance or challenge a person’s understanding of software engineering concepts depending on how people use it and the attitude they have when using it.
 
-
 ### IV. Practical Applications:
 
 AI has been used in many real-world projects and is deeply related to people’s lives. It can be used in items like smartphones and social media that people use daily, it can applied in banking and finance areas to help do the analyzing, and it can also applied to health areas that help keep track of human health. AI can also be used to address real-world software engineering challenges since the large database AI has can help analyze problems that the human brain is not able to solve.
@@ -74,7 +75,6 @@ There isn’t any big challenge or limitation that I have faced when using AI in
 
 The traditional teaching methods in the context of software engineering education can be reading textbooks, watching teaching videos, and hearing other people explain the concept. On the other hand, the AI-enhanced approach will be people typing anything they want to ask AI to AI, and AI will reply to them with the answer. The difference between these two methods is that the speed of traditional teaching methods is slow compared to using AI to learn. But some of the methods in traditional teaching give people the chance to interact with other people and have a chance to hear what other people think.  
 
-
 ### VII. Future Considerations:
 
 As the technology keeps developing, the ability of AI will grow also. I think there is a future for AI to be applied to education because it has the advantages that traditional learning methods don’t have. AI can become the role that gives people more ideas about coding and helps people code more efficiently. However, there are still some challenges and things that people need to be aware of regarding AI. One example is how can people make sure that they won’t over-reliance on AI and lose the ability to think critically. 
@@ -82,3 +82,5 @@ As the technology keeps developing, the ability of AI will grow also. I think th
 ### VIII. Conclusion:
 
 Overall, AI is a good tool that can be applied to different areas and aspects. AI can become a good friend to humans when people know how to use AI wisely. The attitude people have when using AI and the way they use AI are important key points that help connect the good relationship between humans and AI.
+
+<img width="200px" class="rounded float-start pe-4" src="../img/AI.webp">
