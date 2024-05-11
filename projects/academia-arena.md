@@ -24,9 +24,9 @@ Overall, I gained lots of variable knowledge and experiences by doing this proje
 
 <a href="https://academia-arena.github.io/">Academia Arena: ICS Edition</a>
 
-<img class="img-fluid py-3 px-3" width="500px" src="../img/AdminCollection.png">
-<img class="img-fluid py-3 px-3" width="500px" src="../img/AddCard.png">
-<img class="img-fluid py-3 px-3" width="500px" src="../img/Accounts.png">
-<img class="img-fluid py-3 px-3" width="500px" src="../img/Settings.png">
+<img class="img-fluid py-3 px-3" width="600px" src="../img/AdminCollection.png">
+<img class="img-fluid py-3 px-3" width="600px" src="../img/AddCard.png">
+<img class="img-fluid py-3 px-3" width="600px" src="../img/Accounts.png">
+<img class="img-fluid py-3 px-3" width="600px" src="../img/Settings.png">
 
 
