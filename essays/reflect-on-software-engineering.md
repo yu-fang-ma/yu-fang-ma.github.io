@@ -15,11 +15,11 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/react-ui-frameworks-the-best.jpg">
 
-## What is User Interface Frameworks?
+## What are User Interface Frameworks?
 
 According to “What is UI Frameworks and Reason to Use UI Frameworks,” the user interface framework is a collection of libraries, pre-built components, and design elements that can be reused in the process of creating the user interface.
 
-## User Interface Frameworks is important!
+## User Interface Frameworks are important!
 
 User interface frameworks are an important concept in software engineering since it is an important part of web application development. Developers will use user interface frameworks to help them create a web page for users to use. Therefore, whether a developer can create a good and powerful web page depends on the user interface frameworks they use. There are many types of user interface frameworks for developers to use. To successfully create a good web page, every developer should know what type of user interface frameworks they need to use for the project or at least know which one they are more familiar with.
 
