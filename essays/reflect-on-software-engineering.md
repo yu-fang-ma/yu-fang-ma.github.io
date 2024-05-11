@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Valuable things learned after taking ICS 314"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-10
 published: true
@@ -13,15 +13,15 @@ labels:
 
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
 ## What is User Interface Frameworks?
 
 According to “What is UI Frameworks and Reason to Use UI Frameworks,” the user interface framework is a collection of libraries, pre-built components, and design elements that can be reused in the process of creating the user interface.
 
-User interface frameworks are an important concept in software engineering since it is an important part of web application development. Developers will use user interface frameworks to help them create a web page for users to use. Therefore, whether a developer can create a good and powerful web page depends on the user interface frameworks they use.
+## User Interface Frameworks is important!
 
-There are many types of user interface frameworks for developers to use. To successfully create a good web page, every developer should know what type of user interface frameworks they need to use for the project or at least know which one they are more familiar with.
+User interface frameworks are an important concept in software engineering since it is an important part of web application development. Developers will use user interface frameworks to help them create a web page for users to use. Therefore, whether a developer can create a good and powerful web page depends on the user interface frameworks they use. There are many types of user interface frameworks for developers to use. To successfully create a good web page, every developer should know what type of user interface frameworks they need to use for the project or at least know which one they are more familiar with.
+
+## Personal experience with User Interface Frameworks
 
 During the process of developing the web application for my final project, I found out that I like to use React as my user interface framework. I was more familiar with React compared to other user interface frameworks. The components and design elements it has are also useful for me in my web application development. When I face difficulties, the guild lines in the React website help me a lot.
 
