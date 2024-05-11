@@ -36,8 +36,17 @@
       "startDate": "2021-09-01",
       "endDate": "Present"
     }
+  ],  
+  "work": [
+    {
+     "company": "No working experience...",
+     "position": "",
+     "startDate": "",
+     "endDate": "",
+     "summary": "",
+     "highlights": ""
+    }
   ],
-
   "references": [
     {
       "name": "Available upon request"
