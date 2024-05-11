@@ -28,12 +28,16 @@
       "keywords": [ "MacOS", "Git/GitHub" ]
     }
   ],
-
-  "work": [
+    "education": [
     {
-     "company": "No working experience..."
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S. DS Track",
+      "startDate": "2021-09-01",
+      "endDate": "Present"
     }
   ],
+
   "references": [
     {
       "name": "Available upon request"
