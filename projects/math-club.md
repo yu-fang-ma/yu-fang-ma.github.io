@@ -4,7 +4,7 @@ type: project
 image: img/math.jpg
 title: "Math Club"
 date: 2017
-published: true
+published: false
 labels:
   - Math
   - Club
