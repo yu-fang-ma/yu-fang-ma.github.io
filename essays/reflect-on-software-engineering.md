@@ -46,3 +46,6 @@ Our group follows Issue-driven project management to finish our final project. W
 ## Apply to different projects in the future
 
 Issue-driven project management can be applied to different project contexts. The key idea behind issue-driven project management is not just software engineering but also how to make a group work efficiently and be able to overcome every challenge when facing difficulty. The advantages of good planning, organizing, and flexibility could make me see myself applying issue-driven project management to different project contexts.
+
+<a href="https://www.sencha.com/blog/what-is-ui-frameworks-and-reason-to-use-ui-frameworks/">Reference1</a>
+<a href="https://www.techtarget.com/searchcio/definition/Agile-project-management">Reference2</a>
