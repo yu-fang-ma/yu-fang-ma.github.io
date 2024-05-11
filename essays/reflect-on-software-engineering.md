@@ -31,7 +31,7 @@ During the process of developing the web application for my final project, I fou
 
 Overall, I got to solve the challenges I faced during the development of my final web application because I chose the user interface framework that was suitable for me. I think for software engineering, it is important that developers understand what project they are working on, what outcome they should come up with, and what types of tools they are more familiar with. If they understand, they should be able to be successful.
 
-<img width="200px" class="rounded float-start pe-4" src="../img/agile-software-development.webp">
+<img width="190px" class="rounded float-start pe-4" src="../img/agile-software-development.webp">
 
 ## What is agile project management?
 
