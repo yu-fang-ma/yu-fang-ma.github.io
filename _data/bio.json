@@ -21,11 +21,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "R" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "R", "HTML", "React" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub", "g++" ]
+      "keywords": [ "MacOS", "Git/GitHub" ]
     }
   ],
   "education": [
@@ -37,28 +37,11 @@
       "endDate": "Present",
       "courses": [
       ]
-    },
-    {
-      "institution": "Kalani High School",
-      "area": "",
-      "startDate": "2019-08-07",
-      "endDate": "2021-05"
     }
   ],
-  "volunteer": [
+  "work": [
     {
-      "organization": "Math club",
-      "position": "Member",
-      "startDate": "2016",
-      "endDate": "2017",
-      "summary": "Learning Math in a fun way!"
-    },
-        {
-      "organization": "Soccer team",
-      "position": "Player",
-      "startDate": "2014",
-      "endDate": "2015",
-      "summary": "Represent the school in the competition."
+     No Work Experience...
     }
   ],
   "references": [
