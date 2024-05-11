@@ -13,6 +13,8 @@ labels:
 
 ---
 
+<img width="200px" class="rounded float-start pe-4" src="../img/react-ui-frameworks-the-best.jpg">
+
 ## What is User Interface Frameworks?
 
 According to “What is UI Frameworks and Reason to Use UI Frameworks,” the user interface framework is a collection of libraries, pre-built components, and design elements that can be reused in the process of creating the user interface.
@@ -29,6 +31,7 @@ During the process of developing the web application for my final project, I fou
 
 Overall, I got to solve the challenges I faced during the development of my final web application because I chose the user interface framework that was suitable for me. I think for software engineering, it is important that developers understand what project they are working on, what outcome they should come up with, and what types of tools they are more familiar with. If they understand, they should be able to be successful.
 
+<img width="200px" class="rounded float-start pe-4" src="../img/agile-software-development.webp">
 
 ## What is agile project management?
 
