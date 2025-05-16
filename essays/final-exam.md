@@ -10,8 +10,6 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/se.jpg">
-
 ## Introduction
 
 Group Work is an important concept that is often applied in the real world. People helping each other not only increases the efficiency of work but can also help people learn how to interact with people they don’t know well and make good relationships with others. I always thought I was doing okay at this part; however, I am truly wrong.
@@ -39,5 +37,3 @@ Honestly, I think that’s the result I deserve. My attitude was a big problem. 
 ## Conclusion
 
 All of these issues led to the worst group work experience I’ve had in college. Still, even though it was a bad experience, I’m actually thankful for it. I was able to discover this problem in myself before graduating. I did learn some technical things, like coding and building a financial website, but to be honest, the biggest lesson I got from this class was about group work and receiving honest feedback. I need to be more careful about my attitude toward group work. I need to change, and in the future, I want to really work as part of a team — not just as an individual.
-
-<img class="img-fluid" src="../img/team-communication.jpg">
