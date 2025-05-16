@@ -19,6 +19,8 @@ Using AI in Software Engineering has also happened in recent years. The advantag
 
 Since AI is a tool that come up in recent years, I’m still not getting deep into it. The only AI that I’m using generally and in ICS 314 is Grammarly which is an AI that helps people check their grammar when they write.
 
+test
+
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
 
